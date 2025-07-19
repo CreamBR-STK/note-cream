@@ -1,2 +1,2 @@
-# Cream Browser
-A simple, light and fast web browser
+# NoteCream
+A light and useful notepad :)
